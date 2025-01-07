@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zype97
+- 👋 Hi, I’m Zyp
 - 👀 I’m interested in Embedded systems
-- 🌱 I’m currently learning IC
-- 💞️ I’m looking to collaborate on IC designment
+- 🌱 I’m currently learning Linux C/C++
+- 💞️ I’m looking to collaborate on Linux driver development
 - 📫 738100047@qq.com
 
 <!---
